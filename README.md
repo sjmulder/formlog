@@ -10,7 +10,7 @@ Usage
 2. Set this program as the action of a HTML form, e.g.
    `<form action="/cgi-bin/formlog.cgi">`.
 3. Set `FL_DBPATH` to the filename to the file that will hold the form
-   responses, e.g. */var/db/myform.txt*
+   responses, e.g. `/var/db/myform.txt`.
 4. Set `FL_OKPATH` to the path the user should be redirected to on
    success, e.g. `/thanks.html`.
 
